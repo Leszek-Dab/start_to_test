@@ -5,7 +5,7 @@ def pozdrowienia():
     print("Niech Ci się darzy :D")
 
 
-print ("Wynik mojej funkcji dodawanie t0: ",dodawanie())
+print ("Wynik mojej funkcji dodawanie to: ",dodawanie())
 
 x = "Leszek"
 y = 1985
